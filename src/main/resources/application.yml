@@ -1,0 +1,5 @@
+f:
+  jdbc:
+    url: "jdbc:mysql://localhost:3306/ff?serverTimezone=UTC"
+    username: "root"
+    password: "root"
